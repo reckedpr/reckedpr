@@ -3,7 +3,7 @@
 
 ## ⭐ Interests
 - Software & Firmware development
-- Wifi Pentesting
+- IOT & Electrical Engineering
 - Reverse Engineering
 
 ## 💾 Languages
