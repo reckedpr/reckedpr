@@ -4,7 +4,7 @@
 ## ⭐ Interests
 - Software & Firmware development
 - IOT & Electrical Engineering
-- Reverse Engineering
+- The outdoors
 
 ## 💾 Languages
 🌱 Currently Learning C++
@@ -13,8 +13,3 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reckedpr&layout=compact&theme=github_dark_dimmed&hide_border=true)
-
-## [🌍 Website & Contact](https://reckedpr.xyz "My Website")
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Freckedpr.xyz&up_message=online&up_color=green&down_message=offline&style=for-the-badge)
-
-#### discord: ` enviedpr `
