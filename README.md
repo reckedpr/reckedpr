@@ -17,4 +17,6 @@
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reckedpr&layout=compact&theme=github_dark_dimmed)
 
 ## 🧰 Tools & Platforms
+- **Bambu Lab P1S + AMS**
+
 ![Tools](https://skillicons.dev/icons?i=vscode,ps,docker,figma,raspberrypi,debian,windows,godot)
