@@ -6,7 +6,7 @@
 ## ⭐ Interests
 - Software & Firmware development
 - IOT & Electrical Engineering
-- The outdoors
+- Hiking and Wild Camping
 
 ## 💾 Languages
 🌱 I'm Currently Learning C++
