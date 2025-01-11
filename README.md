@@ -18,5 +18,6 @@
 
 ## 🧰 Tools & Platforms
 - **Bambu Lab P1S + AMS**
+- **Ender 3 S1 Pro (modded to balls)**
 
 ![Tools](https://skillicons.dev/icons?i=vscode,ps,docker,figma,raspberrypi,debian,windows,godot)
