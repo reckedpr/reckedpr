@@ -19,5 +19,15 @@
 ## 🧰 Tools & Platforms
 - **Bambu Lab P1S + AMS**
 - **Ender 3 S1 Pro (modded to balls)**
+- **Thinkpad T480s w/ arch btw ;)**
+<details>
+<summary>PC specs</summary>
+  
+- CPU: **Ryzen 5 7600x**
+- GPU: **3060Ti** *(Deshroud, Undervolt, Repaste + pad)*
+- RAM: **32GB DDR5 6000MT/s**
+- MOBO: **ROG Strix B650-A**
 
-![Tools](https://skillicons.dev/icons?i=vscode,ps,docker,figma,raspberrypi,debian,windows,godot)
+</details>
+
+![Tools](https://skillicons.dev/icons?i=vscode,ps,figma,docker,arch,debian,windows,godot)
