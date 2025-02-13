@@ -17,8 +17,8 @@
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reckedpr&layout=compact&theme=github_dark_dimmed)
 
 ## 🧰 Tools & Platforms
-- **Bambu Lab P1S + AMS**
-- **Ender 3 S1 Pro (modded to balls)**
+- **Bambu Lab P1S + AMS :D**
+- **Ender 3 S1 Pro (very modded !)**
 - **Thinkpad T480s w/ arch btw ;)**
 <details>
 <summary>PC specs</summary>
