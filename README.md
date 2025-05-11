@@ -1,33 +1,34 @@
-# 👋 Hi, I'm reckedpr
+# 👋 Hi, I'm ***REMOVED***
 
-
-![Languages](https://skillicons.dev/icons?i=py,cpp,html,css,js)
+I'm a **1st Line IT Engineer Apprentice**
 
 ## ⭐ Interests
-- Software & Firmware development
-- IOT & Electrical Engineering
+- Anything IT
+- IoT & Electrical Engineering
 - Hiking and Wild Camping
 
-## 💾 Languages
-🌱 I'm Currently Learning C++
-
-![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reckedpr&layout=compact&theme=github_dark_dimmed)
-
-## 🧰 Tools & Platforms
-- **Bambu Lab P1S + AMS :D**
-- **Ender 3 S1 Pro (very modded !)**
-- **Thinkpad T480s w/ arch btw ;)**
+## 🧰 Tools & Hardware
+- ~~*Bambu Lab P1S + AMS*~~ I'll rebuy one day 😓
+- *Ender 3 S1 Pro (modded)*
+- **M4 Mac Mini (24GB RAM, + 1TB Ext. NVME)**
+- 34" 1440p IPS Ultrawide
 <details>
 <summary>PC specs</summary>
   
-- CPU: **Ryzen 5 7600x**
-- GPU: **3060Ti** *(Deshroud, Undervolt, Repaste + pad)*
-- RAM: **32GB DDR5 6000MT/s**
-- MOBO: **ROG Strix B650-A**
+Doesn't really get used these days, its under my bed with WoL + [parsec](https://parsec.app/) if I really need x86 windows for something. Otherwise parallels works wonders!
+
+- **CPU:** i5 10500
+- **GPU:** 3060Ti *(Deshroud, Undervolt, Repaste + pad)*
+- **RAM:** 16GB DDR4
+- **MOBO:** Asus TUF B460 Plus
 
 </details>
 
-![Tools](https://skillicons.dev/icons?i=vscode,ps,figma,docker,arch,debian,windows,godot)
+## 💾 Programming
+These days just writing python scripts to improve my life, with the occasional side project.
+
+Fuck software development.. *jk*
+
+![Languages](https://skillicons.dev/icons?i=py,cpp,html,css,js)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reckedpr&layout=compact&theme=github_dark_dimmed)
