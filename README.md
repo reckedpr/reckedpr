@@ -1,6 +1,6 @@
 # 👋 Hi, I'm reckedpr
 
-I'm a **IT Engineer Apprentice**
+I'm an **IT Engineer Apprentice**
 
 ## ⭐ Interests
 - Anything IT
