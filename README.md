@@ -8,7 +8,7 @@ I'm an **IT Engineer Apprentice**
 - Hiking and Wild Camping
 
 ## 🧰 Tools & Hardware
-- ~~*Bambu Lab P1S + AMS*~~ I'll rebuy one day 😓
+- **Bambu Lab P1S + AMS**
 - *Ender 3 S1 Pro (modded)*
 - **M4 Mac Mini (24GB RAM, + 1TB Ext. NVME)**
 - 34" 1440p IPS Ultrawide
