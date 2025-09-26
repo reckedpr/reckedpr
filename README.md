@@ -1,13 +1,11 @@
-# reckedpr
+I'm an IT Engineer, I've dabbled in a lot of things, too many to list. 
 
-I'm an **IT Engineer**
-
-## Interests
-- IT, Homelab, & Networking
-- IoT & Electrical Engineering
-
-## Tools
-- **Bambu Lab P1S Combo**
+### Interests
+- IT, systems, & networking
+- DIY & Electrical engineering
+- Selfhosting and homelabbing
 
 
-![Languages](https://skillicons.dev/icons?i=py,cpp,html,css,js)
+I'm the opposite of a dev, but I fw these techs:
+
+![Languages](https://skillicons.dev/icons?i=go,py,cpp,astro,html,css,js)
