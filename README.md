@@ -1,11 +1,11 @@
-I'm an IT Engineer, I've dabbled in a lot of things, too many to list. 
+```
+main interests in infrastructure, cybersec and networking,
+    but also enjoy selfhosting, diy, etc
 
-### Interests
-- IT, systems, & networking
-- DIY & Electrical engineering
-- Selfhosting and homelabbing
+i don't take dev seriously
 
+---
 
-I'm the opposite of a dev, but for when I am, I know or use these:
-
-![Languages](https://skillicons.dev/icons?i=go,py,cpp,astro,html,css,js)
+email : me@rkpr.dev
+web   : rkpr.dev
+```
